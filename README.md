@@ -1,0 +1,2 @@
+# Attendance_System_-Based-on_FaceRecognition-Identification-and-Verification
+This attendance system is based on face recognition library in python. This system can detect the faces of students and identify their faces. As this is the attendance system, so it will mark the attendance of identified faces and send email to the parents of absent student automatically. This system can automatically generate defaulter list(attendance less then 75%) of students and can also save all records in txt file as well as in excel sheet with graph representation of the data.
